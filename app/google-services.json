@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795613304034",
+    "firebase_url": "https://retrofit-397c9.firebaseio.com",
+    "project_id": "retrofit-397c9",
+    "storage_bucket": "retrofit-397c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795613304034:android:579e3507b0574c47af7abb",
+        "android_client_info": {
+          "package_name": "com.example.retrofit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795613304034-lai20u26bie08k01vsor7lhu3lccpflv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.retrofit",
+            "certificate_hash": "1523112f84860f1918c19a055c352a08f921f03e"
+          }
+        },
+        {
+          "client_id": "795613304034-ehnal4cu2c4jmr26ub4a79fhc95ikupm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvlHAi6btqv8geqY-o5iRzcU4WjlAN2sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795613304034-ehnal4cu2c4jmr26ub4a79fhc95ikupm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

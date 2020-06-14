@@ -1,0 +1,24 @@
+<resources>
+    <string name="enter_summoner">Enter summoner name</string>
+    <string name="summoner_level">Summoner level</string>
+    <string name="last_match">Last game status</string>
+    <string name="summoner_for_review">Review summoner</string>
+    <string name="app_name">Summoner reviews</string>
+    <string name="summoner_name">Summoner name</string>
+    <string name="comment">Comment</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="text_size">22sp</string>
+    <string name="margin_left_text_fields">10dp</string>
+    <array name="spinner_vote">
+        <item>Up</item>
+        <item>Down</item>
+    </array>
+    <array name="spinner_tier">
+        <item>mid-lane</item>
+        <item>adc</item>
+        <item>jungle</item>
+        <item>top-lane</item>
+        <item>support</item>
+    </array>
+</resources>

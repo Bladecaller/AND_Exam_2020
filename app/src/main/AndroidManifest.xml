@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.retrofit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Summoner reviews"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="views.UpdateDataActivity"></activity>
+        <activity android:name="views.TierListActivity" android:theme="@style/AppThemeNoBar"></activity>
+        <activity android:name="views.ProBuildsActivity" android:theme="@style/AppThemeNoBar"></activity>
+        <activity android:name="views.GuidesActivity" android:theme="@style/AppThemeNoBar"></activity>
+        <activity android:name="views.ReviewActivity" android:theme="@style/AppThemeNoBar"/>
+        <activity android:name="views.MainActivity" android:theme="@style/AppThemeNoBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

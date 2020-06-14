@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+    <item
+        android:id="@+id/Guides"
+        android:icon="@drawable/ic_guides"
+        android:title="Guides" />
+    <item
+        android:id="@+id/ProBuilds"
+        android:icon="@drawable/ic_pro_builds"
+        android:title="Pro Builds" />
+    <item
+        android:id="@+id/TierList"
+        android:icon="@drawable/ic_tier_list"
+        android:title="Tier list" />
+</menu>
